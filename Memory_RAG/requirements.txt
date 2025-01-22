@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+openai
+pinecone
+flask
+gunicorn
